@@ -7,3 +7,6 @@ I have added colors too:
 Red
 Blue
 Black
+I want to add these too:
+Yellow,  voilet, purple.
+Thanks for adding!
